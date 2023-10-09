@@ -15,7 +15,7 @@
 - Установите зависимости:
   - pip install -r requirements.txt
 - Настройте базу данных PostgreSQL
-  - 1. Зайдите в файл  main_project/main_project/settings.py
+  - 1. Зайдите в файл main_project/settings.py
     2. Найдите строку 67, где написанно DATABASES = KEY_DB и за мените **KEY_DB** на:
 
 
