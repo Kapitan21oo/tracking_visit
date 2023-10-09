@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from main_project.main_project.secret import KEY, KEY_DB
+from .secret import KEY, KEY_DB
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
